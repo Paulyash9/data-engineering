@@ -1,4 +1,6 @@
 **/.DS_Store
 .DS_Store
-
-
+/env
+.gitignore
+/DE-101/Module1
+.idea
